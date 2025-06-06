@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlFileSource">
+    <option name="sources">
+      <map>
+        <entry key="$PROJECT_DIR$/car_dealership_db.sql" value="e7151ed5-f125-44ca-855b-54325653c98e" />
+      </map>
+    </option>
+  </component>
+</project>
